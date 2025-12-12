@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="PassBox.sql" />
+  </Folder>
+  <Project Path="PassBox.v2/PassBox.v2.csproj" />
+</Solution>
